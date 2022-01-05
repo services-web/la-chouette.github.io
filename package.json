@@ -1,0 +1,21 @@
+{
+  "name": "starting-website",
+  "version": "1.0.0",
+  "description": "\"\"",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass --watch ./sass/main.scss:./public/css/style.css",
+    "test": "echo \"Error: no test specified\" && exit 1"
+    
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/services-web/la-chouette.github.io.git"
+  },
+  "author": "joanan frigo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/services-web/la-chouette.github.io/issues"
+  },
+  "homepage": "https://github.com/services-web/la-chouette.github.io#readme"
+}
