@@ -362,6 +362,12 @@ a:hover {
     z-index: 2;
 }
 
+.citation_content{
+    font-size: 25px;
+    font-style: oblique;
+}
+
+
 @media (min-width: 768px) {
     .site-navigation {
         position: absolute;
@@ -651,7 +657,7 @@ label,
 a {
     font-family: "helvetica";
     font-weight: 400;
-    color: #575757!important;
+    color: #424242!important;
 }
 
 .container {
@@ -677,7 +683,7 @@ a {
 }
 
 p {
-    font-size: 11px;
+    font-size: 18px;
 }
 
 .tight-width-whitespace {
@@ -705,12 +711,12 @@ p {
 }
 
 h2 {
-    font-size: 22px;
+    font-size: 28px;
     line-height: 1.4em;
 }
 
 h3 {
-    font-size: 15px;
+    font-size: 19px;
     text-transform: uppercase;
     font-weight: 700;
     color: #333333!important;
@@ -753,7 +759,7 @@ h4 {
 }
 
 .black-background {
-    background-color: rgba(165, 147, 99, 0.7);
+    background-color: rgba(46, 46, 46, 0.7);
     padding: 40px 40px 40px 40px;
 }
 
